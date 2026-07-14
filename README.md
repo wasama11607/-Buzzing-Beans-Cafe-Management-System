@@ -227,11 +227,9 @@ Possible future enhancements include:
 
 ---
 
-# 👨‍💻 Author
+# 👨‍💻 Team
 
-**Wasama Adal**
-
-Software Design & Analysis (SDA) Project
+Wasama Adal, Kisfa Javed, Iqra Ashraf
 
 ---
 
